@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: firebrick;
+}
+img{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;    
+}
+h1{
+    font-size: 20px;
+}
+p{
+    font-size: 18px;
+}
+.line{
+    height: 6px;
+    background:white;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:20px;
+    font-size: 18px;
+    text-align: center;
+}
